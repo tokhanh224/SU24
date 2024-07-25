@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "name": "dwa",
+      "price": 12.99,
+      "description": "This is product 7",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "Product 8",
+      "price": 17.99,
+      "image": "https://picsum.photos/id/17/300/300",
+      "description": "This is product 8",
+      "discount": 0.1,
+      "quantity": 80,
+      "featured": true,
+      "categoryId": 1
+    },
+    {
+      "id": "9",
+      "name": "Product 9",
+      "price": 6.99,
+      "image": "https://picsum.photos/id/18/300/300",
+      "description": "This is product 9",
+      "discount": 0,
+      "quantity": 120,
+      "featured": false,
+      "categoryId": 1
+    },
+    {
+      "id": "10",
+      "name": "Product 10",
+      "price": 11.99,
+      "image": "https://picsum.photos/id/19/300/300",
+      "description": "This is product 10",
+      "discount": 0.25,
+      "quantity": 90,
+      "featured": true,
+      "categoryId": 2
+    },
+    {
+      "name": "Sản phẩm 11",
+      "price": "1100",
+      "categoryId": 2,
+      "description": "Mô tả sản phẩm 11",
+      "discount": "50",
+      "countInStock": "1000",
+      "featured": false,
+      "id": "11"
+    },
+    {
+      "name": "Sản phẩm 12",
+      "price": "1200",
+      "categoryId": 2,
+      "description": "Mô tả sản phẩm 12",
+      "discount": "40",
+      "countInStock": "10",
+      "featured": true,
+      "id": "12"
+    },
+    {
+      "name": "Sản phẩm 13 update 1",
+      "price": "12312",
+      "description": "Mô tả sản phẩm 13",
+      "id": "13"
+    },
+    {
+      "name": "Sản phẩm 16",
+      "price": "1600",
+      "categoryId": 1,
+      "description": "Mô tả sản phẩm",
+      "discount": "100",
+      "countInStock": "100",
+      "featured": true,
+      "id": "14"
+    },
+    {
+      "name": "New Product dawdwada",
+      "price": "1000",
+      "description": "This is new",
+      "id": "2240"
+    },
+    {
+      "id": "8189",
+      "name": "New Product 2",
+      "price": "2000",
+      "description": "This is new Product 2"
+    },
+    {
+      "id": "08ba",
+      "name": "New Product 3",
+      "price": "3000",
+      "description": "This is product 3"
+    },
+    {
+      "id": "1b86",
+      "name": "Sản phẩm 13 update 2",
+      "price": "1300",
+      "description": "Mô tả sản phẩm 13"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Danh mục 1"
+    },
+    {
+      "id": "2",
+      "name": "Danh mục 2"
+    }
+  ]
+}
